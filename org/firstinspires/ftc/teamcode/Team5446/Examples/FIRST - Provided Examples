@@ -1,0 +1,9 @@
+FIRST Provides sample programs for every new season
+
+You can find this years (2019/20) samples under : FtcRobotController.java.org.firstinspires.ftc.robotcontroller.external.samples
+
+They have a large variety of programs such as
+ - Pushbot w/ auto, Teleop, bot
+ - Many sensors
+ - Vision : TensorFlow (Object) and Vuforia (Image)
+ - IMU (Internal Motion Unit)
