@@ -71,8 +71,7 @@ public class CopyOf_ConceptTensorFlowObjectDetection extends LinearOpMode {
      * and paste it in to your code on the next line, between the double quotes.
      */
     private static final String VUFORIA_KEY =
-            "AUCA+Mb/////AAAAGdh9sgHnukPFg1Ibwo5heUcyBAfQKs+RsFRJzWRzzeOr9tKZE5v7NkIDXov5F4zy1GXeuFIKEmO/xpfGmDM5DvYGvKGXnGhPI+KQJp9hh+X26MJISF6SfW+XlFgRVIgRAbbkKkOuyDbst7kZTefBVFK5dibTexoe2Oj93MGVfIc3Pz+tSSS0TRQIXt3LBv1YgWOekUcpmGiBkVf7zFzVJiHhx26na4MFh+e1YiG1xGKZHr58XFSs75BEZll3xG6W/2+7pGRgnqBGwtqyRtzVAVxJebJl9t+3pF/ZKAh0Eha9ar3mPAZxuvG7ejfirKxa4FiKlPa6qw+I+Y/X2VkNM4IV0sh38WvCF39+5dFHi+Vm";
-
+            "long piece of  text"
     /**
      * {@link #vuforia} is the variable we will use to store our instance of the Vuforia
      * localization engine.
