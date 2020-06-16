@@ -71,7 +71,7 @@ public class CopyOf_ConceptTensorFlowObjectDetectionWebcam extends LinearOpMode 
      * and paste it in to your code on the next line, between the double quotes.
      */
     private static final String VUFORIA_KEY =
-            "long piece of text"
+            "long piece of text";
 
     /**
      * {@link #vuforia} is the variable we will use to store our instance of the Vuforia
