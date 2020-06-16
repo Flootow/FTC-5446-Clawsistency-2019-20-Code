@@ -32,7 +32,7 @@ public class VuforiaService
     private static final boolean PHONE_IS_PORTRAIT = false;
 
     private static final String VUFORIA_KEY =
-            "Some long text I probably shouldn't show"
+            "Some long text I probably shouldn't show";
 
     // Since ImageTarget trackables use mm to specifiy their dimensions, we must use mm for all the physical dimension.
     // We will define some constants and conversions here
